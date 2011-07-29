@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.version     = Colorize::VERSION
   s.authors     = ["Ethan Garofolo"]
   s.email       = ["ethan@bigohstudios.com"]
-  s.homepage    = ""
+  s.homepage    = "https://github.com/juanpaco/colorize"
   s.summary     = %q{Provides some methods for colorizing console text output}
   s.description = %q{Provides some methods for colorizing console text output}
 
