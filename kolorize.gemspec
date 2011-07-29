@@ -1,13 +1,13 @@
 # -*- encoding: utf-8 -*-
 $:.push File.expand_path("../lib", __FILE__)
-require "colorize/version"
+require "kolorize/version"
 
 Gem::Specification.new do |s|
-  s.name        = "colorize"
-  s.version     = Colorize::VERSION
+  s.name        = "kolorize"
+  s.version     = Kolorize::VERSION
   s.authors     = ["Ethan Garofolo"]
   s.email       = ["ethan@bigohstudios.com"]
-  s.homepage    = "https://github.com/juanpaco/colorize"
+  s.homepage    = "https://github.com/juanpaco/kolorize"
   s.summary     = %q{Provides some methods for colorizing console text output}
   s.description = %q{Provides some methods for colorizing console text output}
 

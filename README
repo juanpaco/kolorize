@@ -1,9 +1,9 @@
-== Colorize
+== Kolorize
 
 Are you tried of straining your eyes to find important lines in your log output?  Do you think you "SYSTEM EXPLODED" messages should stand out a bit from the rest of your log lines?
 
-Well, here's gem for colorizing your console output.  Basically it just wraps your text in Unixy escape sequences.  It's also easy to use.
+Well, here's gem for colorizing your console output.  Basically it just wraps your text in Unixy escape sequences.  It's also easy to use and doesn't modify the String class.
 
-For example, if you want to make a line red, use Colorize.red("SYSTEM EXPLODED").  It also supports green and bold via the, wait for it, green and bold methods.
+For example, if you want to make a line red, use Kolorize.red("SYSTEM EXPLODED").  It also supports green and bold via the, wait for it, green and bold methods.
 
 Feel free to fork and add more.  I will as the need arises too.

@@ -1,6 +1,6 @@
-require "colorize/version"
+require "kolorize/version"
 
-module Colorize
+module Kolorize
   class << self
     def colorize(text, color_code)
       "#{color_code}#{text}\e[0m"
